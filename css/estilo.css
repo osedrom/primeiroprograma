@@ -1,0 +1,27 @@
+
+body{
+	text-align: center;
+	
+
+h1{color: green; font-size: 45px;text-align: center;
+	text-decoration: underline;
+	
+}
+h3{
+	color: orange;
+	font-size: 45px;background-color: green; 
+	
+}
+p{ color: red;
+
+}
+.primeiro{
+	color: blue;
+	font-size: 35px;
+	font-style: italic;
+}
+#segundo{
+	color: grey;
+	font-size: 30px;
+	
+}
